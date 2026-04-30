@@ -1,0 +1,279 @@
+{
+  "brand": {
+    "name": "SkynetLabs White-Glove Moving Demo",
+    "tagline": "Estate-grade relocations across the tri-state"
+  },
+  "niche": "moving",
+  "niche_label": "Moving + White-Glove Relocation",
+  "location": {
+    "city": "New York",
+    "region": "NY",
+    "country": "US"
+  },
+  "owner": {
+    "name": "Waseem Nasir",
+    "agency": "SkynetLabs",
+    "fiverr_url": "https://www.fiverr.com/agencies/skynetjoellc",
+    "hub_url": "https://skynetjoe.com",
+    "contact_email": "waseembali2k26@gmail.com",
+    "contact_phone": "+1-212-555-0288"
+  },
+  "palette": {
+    "bg": "#EFEAE0",
+    "surface": "#FFFFFF",
+    "ink": "#1B1A17",
+    "accent": "#3A4A3A",
+    "detail": "#9E8458"
+  },
+  "fonts": {
+    "display": "Cormorant Garamond",
+    "body": "Inter",
+    "mono": null
+  },
+  "dark_mode": false,
+  "hero": {
+    "kind": "photo",
+    "h1": "Moves planned the way the homes were *furnished* — slowly, and with care.",
+    "sub": "Estate-grade white-glove relocations across the tri-state and internationally.",
+    "photo_url": "https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2?w=1920&auto=format&fit=crop&q=80",
+    "photo_credit": "Photo by Lukas Blazek on Unsplash",
+    "overlay": "rgba(28,24,18,0.30)",
+    "focal_point": "center"
+  },
+  "hero_3d": null,
+  "copy": {
+    "primary_cta": "Begin a private estimate →",
+    "primary_cta_href": "#contact",
+    "secondary_cta": "Speak with a move manager",
+    "secondary_cta_href": "tel:+12125550288",
+    "sticky_mobile_bar": "Move manager — (212) 555-0288"
+  },
+  "trust_strip": [
+    "USDOT #1284701 · NYS DOT #36287",
+    "FMCSA MC #482911",
+    "FIDI / FAIM Accredited (International)",
+    "AMSA Pro Mover · BBB A+",
+    "PACIN Art-Handler Credentialed"
+  ],
+  "service_area": {
+    "primary_city": "New York, NY",
+    "service_area_cities": [
+      "Manhattan, NY",
+      "Upper East Side, NY",
+      "Upper West Side, NY",
+      "Tribeca, NY",
+      "SoHo, NY",
+      "West Village, NY",
+      "Chelsea, NY",
+      "Greenwich Village, NY",
+      "Brooklyn Heights, NY",
+      "DUMBO, NY",
+      "Park Slope, NY",
+      "Williamsburg, NY",
+      "Long Island City, NY",
+      "Hamptons, NY",
+      "Sag Harbor, NY",
+      "Greenwich, CT",
+      "Westport, CT",
+      "New Canaan, CT",
+      "Darien, CT",
+      "Bedford, NY",
+      "Scarsdale, NY",
+      "Bronxville, NY",
+      "Rye, NY",
+      "Mamaroneck, NY",
+      "Larchmont, NY",
+      "Princeton, NJ",
+      "Short Hills, NJ",
+      "Far Hills, NJ",
+      "Litchfield, CT",
+      "Hudson Valley, NY"
+    ]
+  },
+  "services": [
+    {
+      "slug": "residential-white-glove",
+      "title": "Residential White-Glove Relocations",
+      "blurb": "Single-residence and multi-residence moves throughout Manhattan, the Hamptons, and the tri-state, executed by W-2 crew under a single move manager. Custom crating for delicate furniture, climate-controlled transport, and a designed-not-improvised unpacking process. Doorman building protocols and COIs as standard."
+    },
+    {
+      "slug": "art-antiques",
+      "title": "Fine Art + Antiques Crating",
+      "blurb": "Custom-built crating for paintings, sculpture, antique furniture, mirrors, and chandeliers. PACIN-credentialed art handlers, condition reports before and after, climate-controlled transit. We have moved Picassos, Steinways, and inherited Chippendale collections — and the photographs prove the same care across all three."
+    },
+    {
+      "slug": "estate-inventory",
+      "title": "Estate-Wide Inventory + Cataloging",
+      "blurb": "Complete estate cataloging for inheritance, insurance, divorce, or sale. Photographic record, condition assessment, valuation coordination with appraisers, and a digital catalog you can share with attorneys, accountants, or auction houses. Quietly the most-requested service for tri-state estate transitions."
+    },
+    {
+      "slug": "climate-storage",
+      "title": "Climate-Controlled Storage Vaults",
+      "blurb": "Long-term and interim storage in our purpose-built tri-state vaults — temperature 65 to 72°F, humidity 45 to 55% RH, monitored continuously with logs available on request. Per-vault leasing rather than per-cubic-foot, so your inventory is not commingled with strangers' goods."
+    },
+    {
+      "slug": "designer-coordination",
+      "title": "Designer + Interior-Trade Coordination",
+      "blurb": "White-glove receiving for interior-design installations — designers ship furniture, art, and accessories to our climate-controlled facility for assembly, inspection, and coordinated install. Standard practice for $1M+ residential design projects in Manhattan and the Hamptons."
+    },
+    {
+      "slug": "international",
+      "title": "International Door-to-Door (Customs Managed)",
+      "blurb": "FIDI / FAIM-accredited international relocations including customs brokerage, destination crew coordination, and home-search referrals. We have managed moves to and from London, Paris, Geneva, Tokyo, Singapore, Dubai, and São Paulo with single-point-of-contact management throughout."
+    }
+  ],
+  "process": [
+    {
+      "n": 1,
+      "title": "Private estimate",
+      "blurb": "In-home walk-through with a senior move manager. Written estimate within 48 hours, fixed-price for residential moves, time-and-materials only by mutual agreement on edge-case scope."
+    },
+    {
+      "n": 2,
+      "title": "Move plan + COI",
+      "blurb": "Detailed move plan, building protocol coordination, and certificate of insurance issued to your doorman building or HOA before the move date."
+    },
+    {
+      "n": 3,
+      "title": "Day-of execution",
+      "blurb": "W-2 crew under your dedicated move manager, custom crating where required, and a calm pace — never the panicked race a typical move becomes."
+    },
+    {
+      "n": 4,
+      "title": "Settled-in walkthrough",
+      "blurb": "We do not consider the move complete when the truck pulls away. We unpack designated rooms, place furniture per your floor plan, and walk through any post-move adjustments before billing closes."
+    }
+  ],
+  "case_study": {
+    "title": "Upper East Side Collector — Picasso Study + Steinway B + 4,200 sq ft Move",
+    "photo_url": "https://images.unsplash.com/photo-1581592893820-19f4c8e8fdf3?w=1920&auto=format&fit=crop&q=80",
+    "quote": "We moved an apartment of art that, frankly, makes most movers nervous. The team built custom crates for every piece, photographed condition before and after each item, and the Picasso study arrived in better condition than it left. Worth every dollar of the white-glove premium.",
+    "stats": [
+      {
+        "value": "0 claims",
+        "label": "Damage on full estate"
+      },
+      {
+        "value": "Custom crates",
+        "label": "Per fine-art piece"
+      },
+      {
+        "value": "PACIN-credentialed",
+        "label": "Art handlers on crew"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "We moved an apartment of art that, frankly, makes most movers nervous. The team built custom crates for every piece, photographed condition before and after each item, and the Picasso study arrived in better condition than it left. They are now permanent on every move and storage we coordinate.",
+      "name": "Mr. & Mrs. H.",
+      "role": "UES collector",
+      "city": "New York, NY"
+    },
+    {
+      "quote": "I run installations for a Manhattan-based interior designer with $1M+ residential projects. White-glove receiving at their warehouse and coordinated install at the residence has reset what I expect from a moving partner. Best-in-class.",
+      "name": "Sasha P.",
+      "role": "Senior Designer, residential firm",
+      "city": "New York, NY"
+    },
+    {
+      "quote": "Estate consolidation following a divorce. The discretion was as essential as the logistics — full inventory cataloging, separated storage of marital assets, and not a single conversation with anyone outside our small circle. Class is not a marketing word with this team.",
+      "name": "Mrs. R.",
+      "role": "Tri-state principal",
+      "city": "Greenwich, CT"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are crews W-2 employees or sub-contracted?",
+      "a": "100% W-2 employees, background-checked and trained on our internal protocols. We do not sub-contract crew. The customer service, the care, and the consistency we deliver depend on a stable workforce — sub-contracted labor cannot deliver this kind of move at this standard."
+    },
+    {
+      "q": "Insurance — full-replacement versus released-value?",
+      "a": "Full-replacement value coverage standard at $50/lb. Increased declared-value coverage available up to $5M per move. Released-value (the federally minimum 60 cents per pound) is available but actively discouraged — it does not actually cover the kind of inventory white-glove customers move."
+    },
+    {
+      "q": "Crating capability for art, mirrors, chandeliers, pianos?",
+      "a": "Full custom crating for fine art, oversized mirrors, crystal chandeliers, and grand pianos including Steinway and Bösendorfer. Crates built in-house at our climate-controlled facility, condition reports before and after, and PACIN-credentialed handlers on every fine-art crew."
+    },
+    {
+      "q": "Climate-controlled storage spec (humidity, temp logs)?",
+      "a": "Temperature 65 to 72°F, humidity 45 to 55% relative humidity, continuously monitored with weekly logs available to clients on request. Independent vaults — your goods are not commingled with strangers' inventory. Leased per-vault rather than per-cubic-foot."
+    },
+    {
+      "q": "COI for doorman buildings (UES / Tribeca standard)?",
+      "a": "Standard practice. Certificates of insurance issued to your specific building's name with the limits required by their move-in protocol — typically $1M to $5M general liability with the building named as additional insured. We do this dozens of times a week and know the language each building requires."
+    },
+    {
+      "q": "Dedicated move manager / single point of contact?",
+      "a": "Yes — every white-glove engagement is assigned a senior move manager who is your single point of contact from estimate through post-move walkthrough. The move manager is on-site for the full move and personally responsible for any escalation — no call-center detour."
+    },
+    {
+      "q": "International capability and customs handling?",
+      "a": "Yes. FIDI / FAIM-accredited for international relocations. We coordinate destination crew, customs brokerage, immigration consultation referrals, and post-arrival home-search support. Past international moves to London, Paris, Geneva, Tokyo, Singapore, Dubai, São Paulo — single-point-of-contact management throughout."
+    },
+    {
+      "q": "NDA / discretion for high-profile clients?",
+      "a": "Standard. NDA available on request and routinely signed. Crew briefings on discretion expectations are part of high-profile-client protocol. We have moved C-suite executives, public-facing artists, and political families — nothing has appeared in any tabloid because the design is for it not to."
+    }
+  ],
+  "lead_magnet": {
+    "title": "The Manhattan White-Glove Move Decision Framework",
+    "subtitle": "How to evaluate moving companies above the budget tier. 13 pages.",
+    "cta": "Get the framework →"
+  },
+  "photos": {
+    "hero": "https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2?w=1920&auto=format&fit=crop&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1581592893820-19f4c8e8fdf3?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1530036846422-2da7866d61f1?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1567016432779-094069958ea5?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1551215717-058c54f48dd9?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1494459094370-78a9b347eafe?w=1280&auto=format&fit=crop&q=80"
+    ]
+  },
+  "competitors": [
+    "https://www.flatrate.com/elite-luxury-white-glove-movers/",
+    "https://ozmoving.com/white-glove-movers/",
+    "https://www.whiteglovetransportation.com",
+    "https://www.morganmanhattan.com/residential-movers/white-glove-movers/",
+    "https://dumbomoving.com/white-glove-moving/"
+  ],
+  "anti_patterns": [
+    "Photo of moving truck with company logo",
+    "5-star rated badge wall",
+    "We treat your stuff like our own tagline"
+  ],
+  "modules": {
+    "booking_calendar": true,
+    "service_area_map": true,
+    "photo_gallery": true,
+    "faq": true,
+    "lead_magnet": true
+  },
+  "contact": {
+    "form_endpoint": "https://api.web3forms.com/submit",
+    "calendly_url": "https://calendly.com/skynetlabs-demo/15min"
+  },
+  "seo": {
+    "title": "White-Glove Moving NYC | Estate + Fine-Art Relocations | SkynetLabs",
+    "description": "White-glove residential moving and estate relocations across NYC, the Hamptons, and the tri-state. FIDI / FAIM accredited international. PACIN-credentialed.",
+    "keywords": [
+      "white glove movers nyc",
+      "fine art moving manhattan",
+      "estate moving company",
+      "international relocation nyc",
+      "luxury movers ues"
+    ],
+    "noindex": true
+  },
+  "demo_disclosure": {
+    "enabled": true,
+    "fiverr_cta_url": "https://www.fiverr.com/agencies/skynetjoellc?utm_source=demo&utm_campaign=moving",
+    "contact_cta_url": "https://skynetjoe.com/contact?utm_source=demo&utm_campaign=moving",
+    "portfolio_url": "https://skynetjoe.com/portfolio"
+  }
+}
